@@ -28,7 +28,9 @@ Each project focuses on solving business problems using **SQL, Python, and Power
 **Key Insights:**
 - Identified top-performing products  
 - Analyzed regional sales trends  
-- Improved business decision-making  
+- Improved business decision-making
+
+- Project Demo Link = https://youtu.be/QU8TQhoBmWE
 
 ---
 
@@ -42,7 +44,9 @@ Each project focuses on solving business problems using **SQL, Python, and Power
 **Key Insights:**
 - Identified delivery delays and bottlenecks  
 - Improved visibility into supply chain operations  
-- Highlighted high-demand regions  
+- Highlighted high-demand regions
+
+- Project Demo Link = https://youtu.be/9rzP76lLizw
 
 ---
 
@@ -56,7 +60,9 @@ Each project focuses on solving business problems using **SQL, Python, and Power
 **Key Insights:**
 - Simulated real-world supply chain behavior  
 - Identified inefficiencies and optimization opportunities  
-- Enabled data-driven decision-making  
+- Enabled data-driven decision-making
+
+- Project Demo Link = https://youtu.be/viqsaRX771E
 
 ---
 
